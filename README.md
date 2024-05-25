@@ -84,6 +84,9 @@ cd air-hockey-game
    - Enjoy the game, practice your skills, and challenge your friends for the highest score!
 
 
+   ![Hockey Time](https://github.com/SalahElshafey/Air-Hockey_OpenGL/blob/main/Hockey%20game.jpg?raw=true)
+
+
 ## Education
 
 - C++
