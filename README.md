@@ -19,7 +19,7 @@ This repository contains an OpenGL-based implementation of the classic Air Hocke
 ### 1.Clone the repository
 
 ```
-git clone https://github.com/yourusername/air-hockey-game.git
+git clone https://github.com/SalahElshafey/air-hockey-game.git
 cd air-hockey-game
 
 ```
