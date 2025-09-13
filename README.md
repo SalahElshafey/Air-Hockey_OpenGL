@@ -26,7 +26,7 @@ cd air-hockey-game
 
 ### 2.Install the required dependencies:
 - Ensure you have OpenGL installed on your system.
-- Install any other dependencies specified in the requirements.txt file or the documentation.
+
 
 ### 3.Build and run the game:
 - Follow the build instructions specific to your platform (Linux, Windows, or macOS) provided in the BUILD.md file.
